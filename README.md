@@ -5,8 +5,8 @@
     $ pkg install python
     $ pip install requests
     $ pip install futures
-    $ git clone https://github.com/baj00/Premium
-    $ cd Premium
+    $ git clone https://github.com/baj00/ig
+    $ cd ig
     $ git pull
     $ python Prem.py
 
